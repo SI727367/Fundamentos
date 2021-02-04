@@ -2,11 +2,11 @@
 # Vivado v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Tue Feb  2 13:13:32 2021
-# Process ID: 9088
+# Start of session at: Thu Feb  4 12:43:17 2021
+# Process ID: 26304
 # Current directory: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Test/Test.runs/synth_1
-# Command line: vivado.exe -log Test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Test.tcl
-# Log file: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Test/Test.runs/synth_1/Test.vds
+# Command line: vivado.exe -log gatesTB.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source gatesTB.tcl
+# Log file: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Test/Test.runs/synth_1/gatesTB.vds
 # Journal file: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Test/Test.runs/synth_1\vivado.jou
 #-----------------------------------------------------------
-source Test.tcl -notrace
+source gatesTB.tcl -notrace

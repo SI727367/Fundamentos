@@ -1,0 +1,33 @@
+
+*** Running vivado
+    with args -log gatesTB.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source gatesTB.tcl
+
+
+****** Vivado v2019.1 (64-bit)
+  **** SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+  **** IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source gatesTB.tcl -notrace
+Command: synth_design -top gatesTB -part xc7a35ticpg236-1L
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a35ti'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35ti'
+INFO: [Device 21-403] Loading part xc7a35ticpg236-1L
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 17940 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:04 . Memory (MB): peak = 793.488 ; gain = 177.270
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'gatesTB' [D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Gates/Gates.srcs/sources_1/new/gatesTB.v:23]
+ERROR: [Synth 8-439] module 'gates' not found [D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Gates/Gates.srcs/sources_1/new/gatesTB.v:30]
+ERROR: [Synth 8-6156] failed synthesizing module 'gatesTB' [D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Gates/Gates.srcs/sources_1/new/gatesTB.v:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 856.637 ; gain = 240.418
+---------------------------------------------------------------------------------
+RTL Elaboration failed
+INFO: [Common 17-83] Releasing license: Synthesis
+4 Infos, 0 Warnings, 0 Critical Warnings and 3 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Synthesis failed - please see the console or run log file for details
+INFO: [Common 17-206] Exiting Vivado at Thu Feb  4 12:37:46 2021...
