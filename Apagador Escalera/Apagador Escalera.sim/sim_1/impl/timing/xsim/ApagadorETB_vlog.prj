@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"ApagadorETB_time_impl.v" \
+"../../../../new/ApagadorETB.v" \
+
+# Do not sort compile order
+nosort

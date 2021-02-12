@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Siete Segmentos/Siete Segmentos.srcs/sources_1/new/Siete.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin7seg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Siete Segmentos/Siete Segmentos.srcs/sim_1/new/SieteTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin7segTB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Siete Segmentos/Siete Segmentos.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

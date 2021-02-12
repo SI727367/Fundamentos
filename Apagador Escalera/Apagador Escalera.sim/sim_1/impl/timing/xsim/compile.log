@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Apagador Escalera/Apagador Escalera.sim/sim_1/impl/timing/xsim/ApagadorETB_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ApagadorE
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Apagador Escalera/Apagador Escalera.sim/new/ApagadorETB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ApagadorETB
