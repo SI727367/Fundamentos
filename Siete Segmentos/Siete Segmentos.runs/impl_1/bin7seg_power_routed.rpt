@@ -1,7 +1,7 @@
 Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
-| Date             : Wed Feb 10 20:41:26 2021
+| Date             : Thu Feb 18 11:48:44 2021
 | Host             : DESKTOP-REPUBLIC running 64-bit major release  (build 9200)
 | Command          : report_power -file bin7seg_power_routed.rpt -pb bin7seg_power_summary_routed.pb -rpx bin7seg_power_routed.rpx
 | Design           : bin7seg
@@ -30,10 +30,10 @@ Table of Contents
 ----------
 
 +--------------------------+--------------+
-| Total On-Chip Power (W)  | 7.784        |
+| Total On-Chip Power (W)  | 7.787        |
 | Design Power Budget (W)  | Unspecified* |
 | Power Budget Margin (W)  | NA           |
-| Dynamic (W)              | 7.696        |
+| Dynamic (W)              | 7.699        |
 | Device Static (W)        | 0.088        |
 | Effective TJA (C/W)      | 5.0          |
 | Max Ambient (C)          | 61.1         |
@@ -54,10 +54,10 @@ Table of Contents
 +----------------+-----------+----------+-----------+-----------------+
 | Slice Logic    |     0.021 |        7 |       --- |             --- |
 |   LUT as Logic |     0.021 |        4 |     20800 |            0.02 |
-| Signals        |     0.068 |       11 |       --- |             --- |
+| Signals        |     0.071 |       11 |       --- |             --- |
 | I/O            |     7.607 |       11 |       106 |           10.38 |
 | Static Power   |     0.088 |          |           |                 |
-| Total          |     7.784 |          |           |                 |
+| Total          |     7.787 |          |           |                 |
 +----------------+-----------+----------+-----------+-----------------+
 
 
@@ -67,7 +67,7 @@ Table of Contents
 +-----------+-------------+-----------+-------------+------------+
 | Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) |
 +-----------+-------------+-----------+-------------+------------+
-| Vccint    |       0.950 |     0.136 |       0.110 |      0.027 |
+| Vccint    |       0.950 |     0.139 |       0.113 |      0.027 |
 | Vccaux    |       1.800 |     0.293 |       0.278 |      0.015 |
 | Vcco33    |       3.300 |     2.150 |       2.149 |      0.001 |
 | Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |
@@ -134,7 +134,7 @@ Table of Contents
 +---------+-----------+
 | Name    | Power (W) |
 +---------+-----------+
-| bin7seg |     7.696 |
+| bin7seg |     7.699 |
 +---------+-----------+
 
 
