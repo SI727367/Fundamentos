@@ -1,0 +1,7 @@
+Running: xsim.dir/SumadorCTB_behav/xsimk.exe -simmode gui -wdb SumadorCTB_behav.wdb -simrunnum 0 -socket 65456
+Design successfully loaded
+Design Loading Memory Usage: 6580 KB (Peak: 6580 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 7180 KB (Peak: 7180 KB)
+Simulation CPU Usage: 62 ms

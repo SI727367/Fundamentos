@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Sumador2bits/Sumador2bits.srcs/sources_1/new/sumador2b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sumador2b
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Sumador2bits/Sumador2bits.srcs/sim_1/new/sumador2bTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sumador2bTB

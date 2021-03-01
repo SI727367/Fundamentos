@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Sumador3bits/Sumador3bits.srcs/sources_1/new/fullAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fullAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Sumador3bits/Sumador3bits.srcs/sources_1/new/halfAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Sumador3bits/Sumador3bits.srcs/sources_1/new/sumador3B.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sumador3B
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Sumador3bits/Sumador3bits.srcs/sim_1/new/sumador3BTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sumador3BTB
