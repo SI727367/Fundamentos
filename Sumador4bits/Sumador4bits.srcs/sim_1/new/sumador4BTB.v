@@ -29,7 +29,7 @@ wire [3:0] S;
 integer i = 0;
 integer j = 0;
 
-sumador3B DUV (
+sumador4B DUV (
     .A(A),
     .B(B),
     .Cout(Cout),

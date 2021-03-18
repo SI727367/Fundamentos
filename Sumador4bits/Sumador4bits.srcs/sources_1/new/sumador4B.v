@@ -5,7 +5,7 @@
 // 
 // Create Date: 25.02.2021 12:10:36
 // Design Name: 
-// Module Name: sumador3B
+// Module Name: sumador4B
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -104,5 +104,5 @@ module sumador4B(
       default: {a, b, c, d, e, f, g} = 7'b1111111;
     endcase
     end   
-endmodule //2sumador3bits
+endmodule //sumador4bits
  

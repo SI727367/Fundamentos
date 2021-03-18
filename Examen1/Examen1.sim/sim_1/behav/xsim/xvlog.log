@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Examen1/Examen1.srcs/sources_1/new/Examen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Examen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/Examen1/Examen1.srcs/sim_1/new/ExamenDB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ExamenDB
