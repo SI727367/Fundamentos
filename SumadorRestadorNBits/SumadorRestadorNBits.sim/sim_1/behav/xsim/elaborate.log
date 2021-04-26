@@ -5,11 +5,11 @@ Using 2 slave threads.
 Starting static elaboration
 Completed static elaboration
 Starting simulation data flow analysis
-WARNING: [XSIM 43-4099] "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/SumadorRestadorNBits/SumadorRestadorNBits.srcs/sources_1/new/SRNB.v" Line 1. Module SRNB(NBITS=4) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/SumadorRestadorNBits/SumadorRestadorNBits.srcs/sources_1/new/SRNB.v" Line 1. Module SRNB_default doesn't have a timescale but at least one module in design has a timescale.
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
 Compiling module xil_defaultlib.fullAdder
-Compiling module xil_defaultlib.SRNB(NBITS=4)
+Compiling module xil_defaultlib.SRNB_default
 Compiling module xil_defaultlib.SRNBTB
 Compiling module xil_defaultlib.glbl
 Built simulation snapshot SRNBTB_behav

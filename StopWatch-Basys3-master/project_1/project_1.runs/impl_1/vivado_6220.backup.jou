@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Apr 18 19:59:10 2021
+# Process ID: 6220
+# Current directory: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/StopWatch-Basys3-master/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log stopWatch.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source stopWatch.tcl -notrace
+# Log file: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/StopWatch-Basys3-master/project_1/project_1.runs/impl_1/stopWatch.vdi
+# Journal file: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/StopWatch-Basys3-master/project_1/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source stopWatch.tcl -notrace

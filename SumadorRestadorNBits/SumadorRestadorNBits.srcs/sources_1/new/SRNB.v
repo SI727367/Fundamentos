@@ -1,6 +1,6 @@
 module SRNB
 #(
-    parameter NBITS = 64
+    parameter NBITS = 4
 )
 (
     iOp, // ~add/sub

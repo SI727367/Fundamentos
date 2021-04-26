@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Apr 13 12:12:44 2021
+# Process ID: 14344
+# Current directory: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/counterSyncffT/counterSyncffT.runs/impl_1
+# Command line: vivado.exe -log counter7Seg.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source counter7Seg.tcl -notrace
+# Log file: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/counterSyncffT/counterSyncffT.runs/impl_1/counter7Seg.vdi
+# Journal file: D:/OneDrive - ITESO/- Semestre 4/Fundamentos-de-Sistemas-Digitales-Vivado/counterSyncffT/counterSyncffT.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source counter7Seg.tcl -notrace
